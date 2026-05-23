@@ -3,9 +3,9 @@
   "description": "官方blockly插件仓库索引，包含工具类、功能类插件",
   "plugins": [
     {
-      "name": "违规词检测",
+      "name": "赞我-数据库版",
       "version": "3.0",
-      "description": "检测违规词并处理群聊消息，并提供其他插件接口进行调用",
+      "description": "赞我",
       "author": "Lun.",
       "zip_url": "https://raw.githubusercontent.com/Lun-OS/HanChat-Plugins/main/plugins/赞我-数据库版.blockly.json",
       "sha256_hash": "2d892772cba3672072062bb2514dd728ab8fb4ec2a159450bafb21c62c1a304c",
