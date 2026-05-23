@@ -1,33 +1,33 @@
 {
-  "repo_name": "lua插件仓库"
+  "repo_name": "lua插件仓库",
   "description": "官方插件仓库索引，包含工具类、功能类插件",
-  "plugins": [
+"plugins": [
     {
-      "name": "theme_dark_mode",
-      "version": "1.2.0",
+"name": "theme_dark_mode",
+"1.2.0",
       "description": "一键切换深色/浅色模式，支持自动跟随系统",
       "author": "张三",
       "zip_url": "https://cdn.example.com/plugins/theme_dark_mode_v1.2.0.zip",
-      "sha256_hash": "a1b2c3d4e5f67890abcdef1234567890a1b2c3d4e5f67890abcdef1234567890",
-      "update_time": "2025-12-29T10:30:00Z"
+"sha256_hash": "a1b2c3d4e5f67890abcdef1234567890a1b2c3d4e5f67890abcdef1234567890",
+"update_time": "2025-12-29T10:30:00Z"
     },
     {
-      "name": "auto_backup",
-      "version": "2.0.1",
+"name": "auto_backup",
+"2.0.1",
       "description": "自动定时备份配置文件，支持云端同步",
       "author": "李四",
       "zip_url": "https://cdn.example.com/plugins/auto_backup_v2.0.1.zip",
-      "sha256_hash": "0987654321fedcba0987654321fedcba0987654321fedcba0987654321fedcba",
-      "update_time": "2025-12-28T15:20:00Z"
+"sha256_hash": "0987654321fedcba0987654321fedcba0987654321fedcba0987654321fedcba",
+"update_time": "2025-12-28T15:20:00Z"
     },
     {
-      "name": "shortcut_manager",
-      "version": "1.0.0",
+"name": "shortcut_manager",
+"1.0.0",
       "description": "自定义全局快捷键，支持多组合键配置",
       "author": "王五",
       "zip_url": "https://cdn.example.com/plugins/shortcut_manager_v1.0.0.zip",
       "sha256_hash": "1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef",
-      "update_time": "2025-12-27T09:10:00Z"
+"update_time": "2025-12-27T09:10:00Z"
     }
   ]
 }
