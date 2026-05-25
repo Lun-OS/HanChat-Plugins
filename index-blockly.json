@@ -7,7 +7,7 @@
       "version": "3.0",
       "description": "赞我",
       "author": "Lun.",
-      "zip_url": "https://raw.githubusercontent.com/Lun-OS/HanChat-Plugins/main/plugins/赞我-数据库版.blockly.json",
+      "url": "https://raw.githubusercontent.com/Lun-OS/HanChat-Plugins/main/plugins/赞我-数据库版.blockly.json",
       "sha256_hash": "284d1901d1f07949ab0b39398113085023f1143b103fd8630b7dd9149d1404b3",
       "update_time": "2026-05-24T10:30:00Z"
     }
