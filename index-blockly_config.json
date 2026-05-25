@@ -1,0 +1,15 @@
+{
+  "repo_name": "blockly积木定义配置仓库",
+  "description": "官方blockly积木定义配置仓库索引",
+  "plugins": [
+    {
+      "name": "违规词检测",
+      "version": "3.0",
+      "description": "检测违规词并处理群聊消息，并提供其他插件接口进行调用",
+      "author": "Lun.",
+      "zip_url": "https://raw.githubusercontent.com/Lun-OS/HanChat-Plugins/main/blockly_config/standard_blocks.json",
+      "sha256_hash": "e3c820df651d106bbd5091442d04ec7688b5a2cfebc54e7b5cb16fd50a84bdbc",
+      "update_time": "2026-05-25T10:30:00Z"
+    }
+  ]
+}
