@@ -1,4 +1,7 @@
 {
+  "name":"官方基础配置",
+  "version": "3.0",
+  "description": "最基础的积木定义配置",
   "blocks": [
     {
       "type": "log_output",
