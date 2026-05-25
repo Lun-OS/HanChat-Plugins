@@ -1,7 +1,7 @@
 {
   "repo_name": "blockly积木定义配置仓库",
   "description": "官方blockly积木定义配置仓库索引",
-  "plugins": [
+  "configs": [
     {
       "name": "官方基础配置",
       "version": "3.0",
