@@ -10,6 +10,51 @@
       "index_url": "https://raw.githubusercontent.com/Lun-OS/HanChat-Plugins/main/plugins/%E8%BF%9D%E8%A7%84%E8%AF%8D%E6%A3%80%E6%B5%8B.zip",
       "sha256_hash": "2d892772cba3672072062bb2514dd728ab8fb4ec2a159450bafb21c62c1a304c",
       "update_time": "2026-05-24T10:30:00Z"
+    },
+    {
+      "name": "AI接口用法示例",
+      "version": "1.0.1",
+      "description": "API调用AI模型示例",
+      "author": "Lun.",
+      "index_url": "https://raw.githubusercontent.com/Lun-OS/HanChat-Plugins/main/plugins/AI接口用法示例.zip",
+      "sha256_hash": "fc0223a16fee2f5252f6edc2c963a55a87fec47f4a01cc9c0ab22906093046a6",
+      "update_time": "2026-05-26T10:30:00Z"
+    },
+    {
+      "name": "测运势",
+      "version": "1.0.0",
+      "description": "群聊娱乐功能测运势",
+      "author": "Lun.",
+      "index_url": "https://raw.githubusercontent.com/Lun-OS/HanChat-Plugins/main/plugins/测运势.zip",
+      "sha256_hash": "102a8fe430f157c1899ba191839fc484bfc994a8d2649108ffa11d6e5d774db6",
+      "update_time": "2026-05-26T10:30:00Z"
+    },
+    {
+      "name": "答案之书",
+      "version": "1.0.0",
+      "description": "群娱乐功能答案之书",
+      "author": "Lun.",
+      "index_url": "https://raw.githubusercontent.com/Lun-OS/HanChat-Plugins/main/plugins/答案之书.zip",
+      "sha256_hash": "f9e5771f460c953ddc57a6060793baaf1b70cf11dcc4bcda11c2a14837a5e3f2",
+      "update_time": "2026-05-26T10:30:00Z"
+    },
+    {
+      "name": "赞我",
+      "version": "1.0.0",
+      "description": "由blockly生成的赞我插件",
+      "author": "Lun.",
+      "index_url": "https://raw.githubusercontent.com/Lun-OS/HanChat-Plugins/main/plugins/赞我.zip",
+      "sha256_hash": "431bf17b958a2c2802c069e4c151d9ead729ea2f3c51e593284086c62a428abc",
+      "update_time": "2026-05-26T10:30:00Z"
+    },
+    {
+      "name": "自动QQ空间投稿示例",
+      "version": "1.1.0",
+      "description": "自动投稿qq空间",
+      "author": "Lun.",
+      "index_url": "https://raw.githubusercontent.com/Lun-OS/HanChat-Plugins/main/plugins/自动发布投稿-QQ空间.zip",
+      "sha256_hash": "3997b18da565a89b07cf25fe1f1493ef8b799e98cea115904ee230baec0fde62",
+      "update_time": "2026-05-26T10:30:00Z"
     }
   ]
 }
