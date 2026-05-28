@@ -55,6 +55,15 @@
       "index_url": "https://raw.githubusercontent.com/Lun-OS/HanChat-Plugins/main/plugins/自动发布投稿-QQ空间.zip",
       "sha256_hash": "3997b18da565a89b07cf25fe1f1493ef8b799e98cea115904ee230baec0fde62",
       "update_time": "2026-05-26T10:30:00Z"
+    },
+    {
+      "name": "频道违规检测-AI",
+      "version": "1.1.0",
+      "description": "通过ai检qq测频道帖子是否违规",
+      "author": "Lun.",
+      "index_url": "https://raw.githubusercontent.com/Lun-OS/HanChat-Plugins/main/plugins/频道违规检测-AI.zip",
+      "sha256_hash": "2bc109ad5460864ef2f8260968fc1394cc5da27129c1c37183e6d820c2e34462",
+      "update_time": "2026-05-28T10:30:00Z"
     }
   ]
 }
